@@ -1,6 +1,6 @@
 ### Hi, I'm Nick 👋
 
-I mostly do automations and virtualizations.
+I mostly do automation and virtualization.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true&count_private=true)
 
