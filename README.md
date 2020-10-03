@@ -4,7 +4,7 @@ I do automation and virtualization, aside from software development. Check out m
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true&count_private=true&custom_title=GitHub%20Stats&hide_border=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=graywhite&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=graywhite&hide_border=true&custom_title=Coding%20Activity)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=1182c2)
 ![](https://img.shields.io/badge/Tools-SaltStack-informational?style=flat&logo=saltstack&logoColor=white&color=1182c2)
