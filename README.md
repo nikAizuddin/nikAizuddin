@@ -6,8 +6,6 @@ I do automation and virtualization, aside from software development. Check out m
 ![](https://img.shields.io/badge/Tools-SaltStack-informational?style=flat&logo=saltstack&logoColor=white&color=1182c2)
 ![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=1182c2)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true&count_private=true)
-
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
