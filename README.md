@@ -6,9 +6,9 @@ I do automation and virtualization, aside from software development. Check out m
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=vue&hide_border=true&custom_title=Coding%20Activity)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=1182c2)
-![](https://img.shields.io/badge/Tools-SaltStack-informational?style=flat&logo=saltstack&logoColor=white&color=1182c2)
-![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=1182c2)
+![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5fc396)
+![](https://img.shields.io/badge/Tools-SaltStack-informational?style=for-the-badge&logo=saltstack&logoColor=white&color=5fc396)
+![](https://img.shields.io/badge/Tools-Vagrant-informational?style=for-the-badge&logo=vagrant&logoColor=white&color=5fc396)
 
 <!--
 **nikAizuddin/nikAizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
