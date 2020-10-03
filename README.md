@@ -2,13 +2,13 @@
 
 I do automation and virtualization, aside from software development. Check out my playground organization [extra2000](https://github.com/extra2000), I use it as my toolbox to speed up prototyping and testing. You can find me at [dev.to](https://dev.to/nikaizuddin).
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true&count_private=true)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin)](https://github.com/anuraghazra/github-readme-stats)
-
 ![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=1182c2)
 ![](https://img.shields.io/badge/Tools-SaltStack-informational?style=flat&logo=saltstack&logoColor=white&color=1182c2)
 ![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=1182c2)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true&count_private=true)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nikAizuddin/nikAizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
