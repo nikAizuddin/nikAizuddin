@@ -2,6 +2,10 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin)](https://github.com/anuraghazra/github-readme-stats)
 
+![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SaltStack-informational?style=flat&logo=saltstack&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Vagrant-informational?style=flat&logo=vagrant&logoColor=white&color=2bbc8a)
+
 <!--
 **nikAizuddin/nikAizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
