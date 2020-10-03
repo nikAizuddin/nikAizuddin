@@ -1,6 +1,6 @@
 ### Hi, I'm Nick 👋
 
-I mostly do automation and virtualization.
+I do automation and virtualization, aside from software development. Check out my playground organization [extra2000](https://github.com/extra2000), I use it as my toolbox to speed up prototyping and testing. You can find me at [dev.to](https://dev.to/nikaizuddin).
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true&count_private=true)
 
