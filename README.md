@@ -2,7 +2,7 @@
 
 I mostly do automations and virtualizations.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=graywhite&show_icons=true&count_private=true)
 
 ![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=flat&logo=linux&logoColor=white&color=1182c2)
 ![](https://img.shields.io/badge/Tools-SaltStack-informational?style=flat&logo=saltstack&logoColor=white&color=1182c2)
