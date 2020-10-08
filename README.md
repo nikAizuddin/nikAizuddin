@@ -3,9 +3,8 @@
 I do automation and virtualization, aside from software development. Check out my playground organization [extra2000](https://github.com/extra2000), I use it as my toolbox to speed up prototyping and testing. You can find me at [dev.to](https://dev.to/nikaizuddin).
 
 <a href="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg">
-  <img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg" width="350">
+  <img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg" width="320">
 </a>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=vue&hide_border=true&custom_title=Weekly%20Coding%20Activity" width="500"/>
 </a>
