@@ -11,8 +11,8 @@ I do automation and virtualization, aside from software development. Check out m
 
 <br />
 
-<a href="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg">
-  <img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg" width="320">
+<a href="https://wakatime.com/share/@nikAizuddin/9651903b-9527-45bb-9164-7a70f8ef186d.svg">
+  <img src="https://wakatime.com/share/@nikAizuddin/9651903b-9527-45bb-9164-7a70f8ef186d.svg" width="320">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=vue&hide_border=true&custom_title=Weekly%20Coding%20Activity" width="500"/>
