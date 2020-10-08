@@ -2,6 +2,9 @@
 
 I do automation and virtualization, aside from software development. Check out my playground organization [extra2000](https://github.com/extra2000), I use it as my toolbox to speed up prototyping and testing. You can find me at [dev.to](https://dev.to/nikaizuddin).
 
+
+<img src="https://img.shields.io/badge/OS-GNU/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-SaltStack-informational?style=for-the-badge&logo=saltstack&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-Vagrant-informational?style=for-the-badge&logo=vagrant&logoColor=white&color=5fc396">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=vue&show_icons=true&count_private=true&custom_title=GitHub%20Stats&hide_border=true" width="500"/>
 </a>
@@ -14,10 +17,6 @@ I do automation and virtualization, aside from software development. Check out m
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=vue&hide_border=true&custom_title=Weekly%20Coding%20Activity" width="500"/>
 </a>
-
-<br />
-
-<img src="https://img.shields.io/badge/OS-GNU/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-SaltStack-informational?style=for-the-badge&logo=saltstack&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-Vagrant-informational?style=for-the-badge&logo=vagrant&logoColor=white&color=5fc396">
 
 <!--
 **nikAizuddin/nikAizuddin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
