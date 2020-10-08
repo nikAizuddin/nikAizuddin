@@ -3,7 +3,7 @@
 I do automation and virtualization, aside from software development. Check out my playground organization [extra2000](https://github.com/extra2000), I use it as my toolbox to speed up prototyping and testing. You can find me at [dev.to](https://dev.to/nikaizuddin).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=vue&show_icons=true&count_private=true&custom_title=GitHub%20Stats&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=vue&show_icons=true&count_private=true&custom_title=GitHub%20Stats&hide_border=true" width="400"/>
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,7 +11,7 @@ I do automation and virtualization, aside from software development. Check out m
 </a>
 
 <a href="https://wakatime.com/@nikAizuddin">
-  <img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg" width="450">
+  <img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg" width="400">
 </a>
 
 
