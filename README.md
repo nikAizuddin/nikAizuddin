@@ -5,7 +5,7 @@ I do automation and virtualization, aside from software development. Check out m
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=vue&show_icons=true&count_private=true&custom_title=GitHub%20Stats&hide_border=true" width="500"/>
 </a>
-
+<br />
 <a href="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg">
   <img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg" width="320">
 </a>
