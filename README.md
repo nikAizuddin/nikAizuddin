@@ -6,7 +6,7 @@ I do automation and virtualization, aside from software development. Check out m
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=vue&hide_border=true&custom_title=Weekly%20Coding%20Activity)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg"/>
+<img src="https://wakatime.com/share/@nikAizuddin/b8181f7f-6c51-4e51-b58f-d3f632c0b3a3.svg" width="450"/>
 
 
 ![](https://img.shields.io/badge/OS-GNU/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5fc396)
