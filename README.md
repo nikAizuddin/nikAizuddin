@@ -1,6 +1,6 @@
 ### Hi, I'm Nick 👋
 
-I do automation and virtualization, aside from software development. You can find me at [dev.to](https://dev.to/nikaizuddin). If you want to have a chat, I'm also available at [Gitter](https://gitter.im/nikAizuddin).
+I do automation and virtualization, aside from software development. You can find me at [dev.to](https://dev.to/nikaizuddin). I'm also available at [Gitter](https://gitter.im/nikAizuddin) if you want to have a chat.
 
 
 <img src="https://img.shields.io/badge/OS-GNU/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-SaltStack-informational?style=for-the-badge&logo=saltstack&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-Vagrant-informational?style=for-the-badge&logo=vagrant&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Docs-latex-informational?style=for-the-badge&logo=latex&logoColor=white&color=5fc396">
