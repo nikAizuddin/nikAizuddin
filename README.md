@@ -6,12 +6,6 @@ I do automation and virtualization, aside from software development. You can fin
 <img src="https://img.shields.io/badge/OS-GNU/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-SaltStack-informational?style=for-the-badge&logo=saltstack&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Tools-Vagrant-informational?style=for-the-badge&logo=vagrant&logoColor=white&color=5fc396"> <img src="https://img.shields.io/badge/Docs-latex-informational?style=for-the-badge&logo=latex&logoColor=white&color=5fc396">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikAizuddin&theme=vue&show_icons=true&count_private=true&custom_title=GitHub%20Stats&hide_border=true" width="500"/>
-</a>
-
-<br />
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=vue&hide_border=true&custom_title=Weekly%20Coding%20Activity"/>
 </a>
 
