@@ -1,13 +1,13 @@
 ### Hi, I'm Nick 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=vue&hide_border=true&custom_title=Weekly%20Coding%20Activity"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=dark&hide_border=true&custom_title=Weekly%20Coding%20Activity"/>
 </a>
 
 <br />
 
-<a href="https://wakatime.com/share/@nikAizuddin/9651903b-9527-45bb-9164-7a70f8ef186d.svg">
-  <img src="https://wakatime.com/share/@nikAizuddin/9651903b-9527-45bb-9164-7a70f8ef186d.svg" width="480">
+<a href="https://wakatime.com/share/@nikAizuddin/cd8cd8ea-1b62-4b14-8230-b5fbab0434c3.svg">
+  <img src="https://wakatime.com/share/@nikAizuddin/cd8cd8ea-1b62-4b14-8230-b5fbab0434c3.svg" width="495">
 </a>
 
 <!--
