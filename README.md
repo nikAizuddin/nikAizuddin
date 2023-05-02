@@ -1,8 +1,8 @@
 ### Hi, I'm Nick 👋
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=dark&hide_border=true&custom_title=Weekly%20Coding%20Activity"/>
-</a>
+Music & embedded system enthusiast!
+
+[![wakatime](https://wakatime.com/badge/user/40985af1-0884-4fc7-9005-3076de2f6093.svg)](https://wakatime.com/@40985af1-0884-4fc7-9005-3076de2f6093)
 
 <br />
 
