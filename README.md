@@ -1,6 +1,6 @@
 ### Hi, I'm Nick 👋
 
-Music & embedded system enthusiast!
+IoT & Embedded System enthusiast!
 
 [![wakatime](https://wakatime.com/badge/user/40985af1-0884-4fc7-9005-3076de2f6093.svg)](https://wakatime.com/@40985af1-0884-4fc7-9005-3076de2f6093)
 
