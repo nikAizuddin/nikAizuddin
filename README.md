@@ -6,14 +6,14 @@
 
 <br />
 
-<a href="https://wakatime.com/share/@nikAizuddin/cd8cd8ea-1b62-4b14-8230-b5fbab0434c3.svg">
-  <img src="https://wakatime.com/share/@nikAizuddin/cd8cd8ea-1b62-4b14-8230-b5fbab0434c3.svg" width="495">
+<a href="https://wakatime.com/share/@nikAizuddin/3b621908-ce1b-4fe1-993d-f51d1d95b709.svg">
+  <img src="https://wakatime.com/share/@nikAizuddin/3b621908-ce1b-4fe1-993d-f51d1d95b709.svg" width="495">
 </a>
 
 <br />
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nikAizuddin&theme=dark&hide_border=true&custom_title=Weekly%20Coding%20Activity&range=last_7_days&is_including_today=true"/>
+<a href="https://wakatime.com/share/@nikAizuddin/f9dbc427-0eea-48c8-b91a-56e172d107c2.svg">
+  <img src="https://wakatime.com/share/@nikAizuddin/f9dbc427-0eea-48c8-b91a-56e172d107c2.svg" width="495"/>
 </a>
 
 <!--
